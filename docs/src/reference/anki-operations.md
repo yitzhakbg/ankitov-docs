@@ -1,8 +1,3 @@
----
-type: note
-title: Anki Operations Access
----
-
 # Anki Operations Access
 
 _Operational guide for Anki operations via the Management Console._

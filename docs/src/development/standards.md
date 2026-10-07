@@ -1,8 +1,3 @@
----
-type: note
-title: Coding Standards
----
-
 # Coding Standards
 
 ## Rust

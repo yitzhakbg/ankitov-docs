@@ -1,8 +1,3 @@
----
-type: note
-title: AnkiTov
----
-
 # AnkiTov
 
 AnkiTov is the product being developed: institutional spaced-repetition

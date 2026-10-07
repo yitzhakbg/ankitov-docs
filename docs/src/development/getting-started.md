@@ -1,8 +1,3 @@
----
-type: note
-title: Getting Started
----
-
 # Getting Started
 
 ## Prerequisites

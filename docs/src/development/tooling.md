@@ -1,8 +1,3 @@
----
-type: note
-title: Development Tooling and Product Boundary
----
-
 # Development Tooling and Product Boundary
 
 The tools used by Goose to develop AnkiTov are distinct from AnkiTov's own

@@ -1,20 +1,14 @@
----
-type: note
-title: Summary
----
-
 # Summary
 
+[Getting Started](development/getting-started.md)
 [Overview](overview.md)
 [Architecture Overview](architecture.md)
 [Contributing](contributing.md)
 
 ---
 
-
 # Development
 
-- [Getting Started](development/getting-started.md)
 - [Tooling & Harness](development/tooling.md)
 - [Coding Standards](development/standards.md)
 - [HITL Gate Protocol](development/hitl-gate.md)
