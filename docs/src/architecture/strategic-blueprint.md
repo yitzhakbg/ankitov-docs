@@ -1,6 +1,5 @@
 # Strategic Blueprint
 
-_See the full document at [`workspace/Strategic_Blueprint.md`](https://github.com/yitzhakbg/AnkiTov-C/blob/main/workspace/Strategic_Blueprint.md)._
 
 ## 7-Prong Development Roadmap
 
@@ -11,11 +10,6 @@ _See the full document at [`workspace/Strategic_Blueprint.md`](https://github.co
 | 3 | **Web Deployment** — Loco.rs, SeaORM, multi-tenant | ✅ Active |
 | 4 | **Gaming Console Streaming** — Thin-client & console access | 🔜 Planned |
 | 5 | **Commercial Analytics** — Dashboards, subscriptions | 🔜 Planned |
-| 6 | **Content Clearing House** — Publisher DRM, revenue distribution | 🔜 Planned |
+| 6 | **Content Marketplace** — publisher ecosystem, revenue sharing | 🔜 Planned |
 | 7 | **Public Platform & Blog** — Site and inbound content | 🔜 Planned |
 
-## Key Documents
-
-- [`workspace/Strategic_Blueprint.md`](../../workspace/Strategic_Blueprint.md) — Full vision & strategy
-- [`workspace/archived/Launch_Runbook.md`](../../workspace/archived/Launch_Runbook.md) — Development workspace setup
-- [`workspace/archived/Tooling_AnkiTov.md`](../../workspace/archived/Tooling_AnkiTov.md) — Dev environment & HITL gate

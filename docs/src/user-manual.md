@@ -202,6 +202,11 @@ problem areas, and practice patterns across the group.
 This is your "how is the group doing?" dashboard. Individual per-student
 numbers live in the [Progress Tracker](#9-progress-tracker-compliance).
 
+> **Coming next:** a class-wide **leaderboard** — synchronized practice
+> sessions with friendly rankings — is planned as an engagement layer on top
+> of the retention data (motivation first, proof second). Watch the release
+> notes.
+
 ---
 
 ## 9. Progress Tracker (Compliance)
@@ -233,6 +238,13 @@ The **Sync** screen shows whether each student's practice data is
 
 - 🟢 **Green** = up to date.
 - 🔴 **Red** = sync is needed or has failed.
+
+**Why syncing matters:** the practice decks are standard Anki decks, so a
+student can continue practicing with **Anki on their own device** after
+school if they wish — at home, on the bus, anywhere. Sync keeps each
+student's practice data consistent between the classroom and their personal
+practice, so studying elsewhere never costs them their place in the class
+picture.
 
 Click **Trigger Full Sync** to force-sync **all** students at once. Use this
 after bulk changes (new decks, new plans) or when a student reports they
@@ -308,3 +320,13 @@ the review then. You set *how often* (weekly sessions); it decides *when*.
 **Do I control what my students see?**
 Yes. You upload the decks, define the modules/plans, and generate the
 sessions. Students see exactly what you assign — and only that.
+
+**Can students practice on their own devices after school?**
+Yes — that's what sync is for. The practice decks are standard Anki decks,
+so a student can keep practicing with Anki on their own device if they wish,
+and sync keeps their data consistent with the class picture.
+
+**Is there a leaderboard?**
+Not yet — it's on the roadmap. The planned class-wide practice mode adds
+synchronized sessions with a leaderboard as an engagement layer on top of
+the retention engine, never a substitute for it.

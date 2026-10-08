@@ -15,11 +15,8 @@
 # Architecture
 
 - [Architecture Overview](architecture.md)
-- [Long-Term Vision](architecture/vision.md)
 - [Strategic Blueprint](architecture/strategic-blueprint.md)
-- [5-Layer System Isolation](architecture/system-isolation.md)
-- [Streaming & DRM](architecture/streaming-drm.md)
-- [Clearing House Model](architecture/clearing-house.md)
+- [Streaming](architecture/streaming-drm.md)
 
 # Development
 
