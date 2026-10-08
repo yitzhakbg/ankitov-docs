@@ -34,3 +34,11 @@
 - No gRPC: use stdio, HTTP, or MCP stdio where appropriate.
 - Do not describe Goose development tools as AnkiTov product components.
 - Qualify Rig references as **factory-harness Rig** or **backend NLU Rig**.
+
+## Documentation timeliness
+
+Documentation is part of done: a change that lands without its docs is incomplete.
+
+- Every new or changed public route carries a `#[utoipa::path]` annotation (aggregated in `backend/src/openapi.rs`).
+- New capabilities get or update a chapter in `docs/src/` in the same change.
+- `scripts/check-docs.sh` must pass before recording the commit; CI re-checks and republishes on push to `main` (`.github/workflows/docs.yml`).

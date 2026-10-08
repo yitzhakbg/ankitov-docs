@@ -34,5 +34,5 @@ cargo check
 cargo nextest run
 ```
 
-The authoritative boundary and review-wrapper setup live in the private
-development repository (not part of this public documentation).
+The authoritative boundary and review-wrapper setup live in the development
+workspace (internal; not part of the public export).

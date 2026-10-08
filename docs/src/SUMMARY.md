@@ -1,14 +1,29 @@
 # Summary
 
-[Getting Started](development/getting-started.md)
+
 [Overview](overview.md)
-[Architecture Overview](architecture.md)
+
 [Contributing](contributing.md)
+
 
 ---
 
+# User Manual
+
+- [AnkiTov User Manual](user-manual.md)
+
+# Architecture
+
+- [Architecture Overview](architecture.md)
+- [Long-Term Vision](architecture/vision.md)
+- [Strategic Blueprint](architecture/strategic-blueprint.md)
+- [5-Layer System Isolation](architecture/system-isolation.md)
+- [Streaming & DRM](architecture/streaming-drm.md)
+- [Clearing House Model](architecture/clearing-house.md)
+
 # Development
 
+- [Getting Started](development/getting-started.md)
 - [Tooling & Harness](development/tooling.md)
 - [Coding Standards](development/standards.md)
 - [HITL Gate Protocol](development/hitl-gate.md)
